@@ -1,2 +1,1 @@
-# AT_interface_localization
-AT for different interface languages
+AT for checking UI button for different languages
